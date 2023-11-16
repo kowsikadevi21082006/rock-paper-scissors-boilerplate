@@ -72,10 +72,15 @@ p{
 
 
 
-.playagain{
-    text-align: center;
+#playagain{
     background-color: #ffc434;
-    border-radius: 20px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 24px;
+    font-weight: bold;
+    border: 1px solid black;
     width: 200px;
+    height: 35px;
     margin-left: 650px;
+    cursor: pointer;
 }
